@@ -47,6 +47,8 @@
   "environment": {
     "defaults": {
       "AppId": "com.example.branding",
+	  "AppDisplayName": "Branding Sample",
+	  "Theme": "Light",
     },
     "configuration": {
       "Debug": {
