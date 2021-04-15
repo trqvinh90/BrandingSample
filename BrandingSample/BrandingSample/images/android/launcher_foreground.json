@@ -1,0 +1,10 @@
+{
+  "$schema": "http://mobilebuildtools.com/schemas/v2/resourceDefinition.schema.json",
+  "name": "icon",
+  "android": {
+    "resourceType": "Mipmap",
+    "name": "launcher_foreground",
+    "scale": 0.28125,
+	"padFactor": 1.5
+  }
+}
